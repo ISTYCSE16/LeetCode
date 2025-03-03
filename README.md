@@ -6,6 +6,7 @@ LeetCode Problems Solved
 ## Array
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ISTYCSE16/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ISTYCSE16/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
@@ -14,5 +15,10 @@ LeetCode Problems Solved
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ISTYCSE16/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ISTYCSE16/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ISTYCSE16/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
