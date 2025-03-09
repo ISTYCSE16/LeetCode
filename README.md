@@ -9,6 +9,7 @@ LeetCode Problems Solved
 | [2265-partition-array-according-to-given-pivot](https://github.com/ISTYCSE16/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ISTYCSE16/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ISTYCSE16/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/ISTYCSE16/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@ LeetCode Problems Solved
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/ISTYCSE16/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [3483-alternating-groups-ii](https://github.com/ISTYCSE16/LeetCode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
