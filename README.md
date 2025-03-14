@@ -6,6 +6,7 @@ LeetCode Problems Solved
 ## Array
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ISTYCSE16/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ISTYCSE16/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISTYCSE16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ISTYCSE16/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -54,6 +55,7 @@ LeetCode Problems Solved
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ISTYCSE16/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISTYCSE16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/ISTYCSE16/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
