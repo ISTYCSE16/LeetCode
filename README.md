@@ -9,6 +9,7 @@ LeetCode Problems Solved
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ISTYCSE16/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ISTYCSE16/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISTYCSE16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/ISTYCSE16/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ISTYCSE16/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ISTYCSE16/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/ISTYCSE16/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -57,6 +58,7 @@ LeetCode Problems Solved
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ISTYCSE16/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISTYCSE16/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/ISTYCSE16/LeetCode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/ISTYCSE16/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
